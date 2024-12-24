@@ -1,0 +1,6 @@
+@SampleApi.Els_Kibana_SerilogIntegration_HostAddress = http://localhost:5089
+
+GET {{SampleApi.Els_Kibana_SerilogIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
